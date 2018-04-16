@@ -1,3 +1,6 @@
+# Directories to Ignore
+/Data
+
 # History files
 .Rhistory
 .Rapp.history
